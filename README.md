@@ -1,2 +1,18 @@
 # DSA_Practice
 Collection of LeetCode questions to ace the coding interview! - Created using [LeetHub-3.0](https://github.com/raphaelheinz/LeetHub-3.0)
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1854-maximum-population-year](https://github.com/Kunal72004/DSA_Practice/tree/main/1854-maximum-population-year/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1854-maximum-population-year](https://github.com/Kunal72004/DSA_Practice/tree/main/1854-maximum-population-year/) | Easy |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1854-maximum-population-year](https://github.com/Kunal72004/DSA_Practice/tree/main/1854-maximum-population-year/) | Easy |
+<!---LeetCode Topics End-->
