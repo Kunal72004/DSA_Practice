@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0724-find-pivot-index](https://github.com/Kunal72004/DSA_Practice/tree/main/0724-find-pivot-index/) | Easy |
 | [1854-maximum-population-year](https://github.com/Kunal72004/DSA_Practice/tree/main/1854-maximum-population-year/) | Easy |
+| [1991-find-the-middle-index-in-array](https://github.com/Kunal72004/DSA_Practice/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -17,4 +18,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0724-find-pivot-index](https://github.com/Kunal72004/DSA_Practice/tree/main/0724-find-pivot-index/) | Easy |
 | [1854-maximum-population-year](https://github.com/Kunal72004/DSA_Practice/tree/main/1854-maximum-population-year/) | Easy |
+| [1991-find-the-middle-index-in-array](https://github.com/Kunal72004/DSA_Practice/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 <!---LeetCode Topics End-->
