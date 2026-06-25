@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kunal72004/DSA_Practice/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0724-find-pivot-index](https://github.com/Kunal72004/DSA_Practice/tree/main/0724-find-pivot-index/) | Easy |
+| [0731-my-calendar-ii](https://github.com/Kunal72004/DSA_Practice/tree/main/0731-my-calendar-ii/) | Medium |
 | [1094-car-pooling](https://github.com/Kunal72004/DSA_Practice/tree/main/1094-car-pooling/) | Medium |
 | [1854-maximum-population-year](https://github.com/Kunal72004/DSA_Practice/tree/main/1854-maximum-population-year/) | Easy |
 | [1991-find-the-middle-index-in-array](https://github.com/Kunal72004/DSA_Practice/tree/main/1991-find-the-middle-index-in-array/) | Easy |
@@ -20,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0724-find-pivot-index](https://github.com/Kunal72004/DSA_Practice/tree/main/0724-find-pivot-index/) | Easy |
+| [0731-my-calendar-ii](https://github.com/Kunal72004/DSA_Practice/tree/main/0731-my-calendar-ii/) | Medium |
 | [1094-car-pooling](https://github.com/Kunal72004/DSA_Practice/tree/main/1094-car-pooling/) | Medium |
 | [1854-maximum-population-year](https://github.com/Kunal72004/DSA_Practice/tree/main/1854-maximum-population-year/) | Easy |
 | [1991-find-the-middle-index-in-array](https://github.com/Kunal72004/DSA_Practice/tree/main/1991-find-the-middle-index-in-array/) | Easy |
@@ -40,4 +42,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1094-car-pooling](https://github.com/Kunal72004/DSA_Practice/tree/main/1094-car-pooling/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0731-my-calendar-ii](https://github.com/Kunal72004/DSA_Practice/tree/main/0731-my-calendar-ii/) | Medium |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0731-my-calendar-ii](https://github.com/Kunal72004/DSA_Practice/tree/main/0731-my-calendar-ii/) | Medium |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0731-my-calendar-ii](https://github.com/Kunal72004/DSA_Practice/tree/main/0731-my-calendar-ii/) | Medium |
+## Ordered Set
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0731-my-calendar-ii](https://github.com/Kunal72004/DSA_Practice/tree/main/0731-my-calendar-ii/) | Medium |
 <!---LeetCode Topics End-->
