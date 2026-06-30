@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kunal72004/DSA_Practice/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Kunal72004/DSA_Practice/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/Kunal72004/DSA_Practice/tree/main/0152-maximum-product-subarray/) | Medium |
+| [0169-majority-element](https://github.com/Kunal72004/DSA_Practice/tree/main/0169-majority-element/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/Kunal72004/DSA_Practice/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0724-find-pivot-index](https://github.com/Kunal72004/DSA_Practice/tree/main/0724-find-pivot-index/) | Easy |
 | [0731-my-calendar-ii](https://github.com/Kunal72004/DSA_Practice/tree/main/0731-my-calendar-ii/) | Medium |
@@ -22,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/Kunal72004/DSA_Practice/tree/main/0169-majority-element/) | Easy |
 | [1854-maximum-population-year](https://github.com/Kunal72004/DSA_Practice/tree/main/1854-maximum-population-year/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -44,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/Kunal72004/DSA_Practice/tree/main/0169-majority-element/) | Easy |
 | [1094-car-pooling](https://github.com/Kunal72004/DSA_Practice/tree/main/1094-car-pooling/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -78,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/Kunal72004/DSA_Practice/tree/main/0053-maximum-subarray/) | Medium |
+| [0169-majority-element](https://github.com/Kunal72004/DSA_Practice/tree/main/0169-majority-element/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -91,4 +95,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/Kunal72004/DSA_Practice/tree/main/0042-trapping-rain-water/) | Hard |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/Kunal72004/DSA_Practice/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
