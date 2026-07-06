@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/Kunal72004/DSA_Practice/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kunal72004/DSA_Practice/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Kunal72004/DSA_Practice/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+| [0134-gas-station](https://github.com/Kunal72004/DSA_Practice/tree/main/0134-gas-station/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/Kunal72004/DSA_Practice/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0169-majority-element](https://github.com/Kunal72004/DSA_Practice/tree/main/0169-majority-element/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/Kunal72004/DSA_Practice/tree/main/0238-product-of-array-except-self/) | Medium |
@@ -77,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Kunal72004/DSA_Practice/tree/main/0011-container-with-most-water/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Kunal72004/DSA_Practice/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+| [0134-gas-station](https://github.com/Kunal72004/DSA_Practice/tree/main/0134-gas-station/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
