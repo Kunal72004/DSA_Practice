@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Kunal72004/DSA_Practice/tree/main/0011-container-with-most-water/) | Medium |
+| [0041-first-missing-positive](https://github.com/Kunal72004/DSA_Practice/tree/main/0041-first-missing-positive/) | Hard |
 | [0042-trapping-rain-water](https://github.com/Kunal72004/DSA_Practice/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/Kunal72004/DSA_Practice/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kunal72004/DSA_Practice/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -102,5 +103,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0041-first-missing-positive](https://github.com/Kunal72004/DSA_Practice/tree/main/0041-first-missing-positive/) | Hard |
 | [0169-majority-element](https://github.com/Kunal72004/DSA_Practice/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
